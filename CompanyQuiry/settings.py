@@ -68,9 +68,7 @@ DATABASES = {
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
-# Database
-# https://docs.djangoproject.com/en/2.2/ref/settings/#databases
-#
+
 # DATABASES = {
 #     'default': {
 #         # 连接数据库类型 在末尾写入mysql即可
